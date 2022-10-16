@@ -22,13 +22,12 @@ header h1 {
     background-color: rgba(219, 167, 55, 0.995);
     align-items: center;
     margin: auto;  
-    padding: 15px;
+    padding-top: 5px;  
 }
 .sub-container {    
-    width: 60%;
-    height: 40%;
-    margin: 20px auto;     
-    padding: 50px;      
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;  
     background-color: rgb(53, 202, 228);
     border: 5px solid blue;
     
